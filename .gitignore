@@ -58,7 +58,6 @@ typings/
 .env
 
 # build files
-dist/
 
 # env
 .env
@@ -70,4 +69,3 @@ sample/package-lock.json
 
 # test credentials
 /test/credentials.json
-
